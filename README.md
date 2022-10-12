@@ -29,11 +29,37 @@
   - [ ] Entendendo Métodos Java
 
 ## Módulo 4 - Dominando Algoritmos Básicos com Desafios de Código Java
-
+  - [ ] Desafio: Os Números Sào Iguais?
+  - [ ] Desafio: Somando Múltiplos
+  - [ ] Desafio: Uma Chamada Recursiva
+  - [ ] Desafio: FizzBuzz
+  - [ ] Desafio: Busca Sequencial
+  
 ## Módulo 5 - Programação Orientada a Objetos com Java
-
+  - [ ]  Programação Orientada a Objetos
+  - [ ]  Trabalhando com Collections Java
+  - [ ]  Debugging Java
+  - [ ]  Tratamento de Exceções em Java
+  - [ ]  Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+  
 ## Módulo 6 - Ganhando Produtividade com Spring Framework
-
+  - [ ]  Principais Protocolos de Comunicação da Internet
+  - [ ]  Gerenciamento de Dependências e Build em Java com Maven
+  - [ ]  Imersão no Spring Framework com Spring Boot
+  - [ ]  Criando uma API REST Documentada com Spring Web e Swagger
+  - [ ]  Explorando Padrões de Projetos na Prática com Java
+  
 ## Módulo 7 - Dominando Algorítmos Intermediários com Desafios de Código Java
-
+  - [ ] Desafio: Checagem de Palíndromo
+  - [ ] Desafio: Validação de Parênteses
+  - [ ] Desafio: Quadrados Perfeitos
+  - [ ] Desafio: Classificando Matrizes
+  - [ ] Desafio: Fatorial Desajeitado
+  
 ## Módulo 8 - Fortalecendo sua Carreira Profissional
+  - [ ] Deixando seu LinkedIn atrativo
+  - [ ] Turbine Seu Currículo na DIO
+  - [ ] Trabalhando em Equipes Ágeis
+  - [ ] Transformando seu Conhecimento em Artigos Técnicos
+  - [ ] Se Preparando Para Uma Entrevista
+  - [ ] Convite para o Minha Carreira Tech | Potência Tech Powered By Ifood
