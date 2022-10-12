@@ -3,13 +3,13 @@
 ![potenciaTechJavaBeginners](https://user-images.githubusercontent.com/50057305/195233444-836abc0c-5040-4ae1-a3d1-0167a96205e4.png)
 
 ## Módulo 1 - Prepare-se para a Jornada
-  - [x] Boas Vindas,
+  - [x] Boas Vindas 
   - [x] Conheça Oportunidades da DIO
   - [x] Seja Protagonista Neste Bootcamp
   - [x] Introdução ao desenvolvimento Moderno de Software
   - [x] Mentoria(LIVE)
   
-  - Palestrantes
+  + Palestrantes
     - Camila Cavalcante - DIO
     - Venilton Falvo Jr - DIO
     - Renan Oliveira - DIO
