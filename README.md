@@ -63,3 +63,10 @@
   - [ ] Transformando seu Conhecimento em Artigos Técnicos
   - [ ] Se Preparando Para Uma Entrevista
   - [ ] Convite para o Minha Carreira Tech | Potência Tech Powered By Ifood
+
+
+<!-- COMENTÁRIOS IMPORTANTES
+
+MODULO 3 - https://github.com/cami-la/loops-e-arrays 
+
+-->
