@@ -1,4 +1,4 @@
-package tiposVariaveis;
+package sintaxeJava.tiposVariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args) {
