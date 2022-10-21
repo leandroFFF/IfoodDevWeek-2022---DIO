@@ -24,19 +24,19 @@
   - [x] Introdução à Plataforma Java
   - [x] Ambiente de Desenvolvimento Java
   - [x] Aprendendo a Sintaxe Java
-  - [ ] Lógica Ciondicional e Controle de Fluxos em Java
-  - [ ] Estruturas de Repetição e Arrays em Java
-  - [ ] Entendendo Métodos Java
+  - [x] Lógica Ciondicional e Controle de Fluxos em Java
+  - [x] Estruturas de Repetição e Arrays em Java
+  - [x] Entendendo Métodos Java
 
 ## Módulo 4 - Dominando Algoritmos Básicos com Desafios de Código Java
-  - [ ] Desafio: Os Números Sào Iguais?
-  - [ ] Desafio: Somando Múltiplos
-  - [ ] Desafio: Uma Chamada Recursiva
-  - [ ] Desafio: FizzBuzz
-  - [ ] Desafio: Busca Sequencial
+  - [x] Desafio: Os Números Sào Iguais?
+  - [x] Desafio: Somando Múltiplos
+  - [x] Desafio: Uma Chamada Recursiva
+  - [x] Desafio: FizzBuzz
+  - [x] Desafio: Busca Sequencial
   
 ## Módulo 5 - Programação Orientada a Objetos com Java
-  - [ ]  Programação Orientada a Objetos
+  - [x]  Programação Orientada a Objetos
   - [ ]  Trabalhando com Collections Java
   - [ ]  Debugging Java
   - [ ]  Tratamento de Exceções em Java
