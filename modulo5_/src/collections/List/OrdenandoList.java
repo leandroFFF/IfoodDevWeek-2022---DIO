@@ -26,7 +26,7 @@ public class OrdenandoList {
         System.out.println(meusGatos);  //precisou sobrescrever o toString()
 
         System.out.println("--\tOrdem Aleatória\t---");
-        Collections.shuffle(meusGatos);
+        Collections.shuffle(meusGatos);     //coloca em ordem aleatoria
         System.out.println(meusGatos);
 
         System.out.println("--\tOrdem Natural (Nome)\t---");
