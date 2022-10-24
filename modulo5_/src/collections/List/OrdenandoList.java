@@ -1,4 +1,4 @@
-package collections;
+package collections.List;
 /*
 * Dadas as seguintes informacoes sobre meus gatos, crie uma lista
 * e ordene esta lista exibindo:
@@ -8,8 +8,6 @@ package collections;
 * Gato 2 = nome: Simba, idade: 6, cor: tigrado
 * Gato 3 = nome: Jon, idade: 12, cor: amarelo
 * */
-
-import com.sun.source.tree.BreakTree;
 
 import java.util.ArrayList;
 import java.util.Collections;
