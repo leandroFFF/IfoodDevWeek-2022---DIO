@@ -24,10 +24,9 @@ public class Comparacoes {
             add(new Protuto("Caju", 4.70));
             add(new Protuto("Abacaxi", 3.00));
         }};
+
         Collections.sort(protutos);
         System.out.println(protutos);
-
-
     }
     public static class Protuto implements Comparable<Protuto>{
         private String nome;
